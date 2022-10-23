@@ -1,0 +1,19 @@
+{
+  "name": "hardhat-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erosnol/hardhat_tutorial.git"
+  },
+  "author": "eros mendoza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erosnol/hardhat_tutorial/issues"
+  },
+  "homepage": "https://github.com/erosnol/hardhat_tutorial#readme"
+}
