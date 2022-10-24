@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/erosnol/hardhat_tutorial/issues"
   },
-  "homepage": "https://github.com/erosnol/hardhat_tutorial#readme"
+  "homepage": "https://github.com/erosnol/hardhat_tutorial#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
 }
